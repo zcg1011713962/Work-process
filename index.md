@@ -9,11 +9,11 @@
 
 ## centos7
 - 防火墙
-防火墙开启端口 firewall-cmd --zone=public --add-port=8080/tcp --permanent <br/>
-重启防火墙 firewall-cmd --reload <br/>
-查看开通的端口列表 firewall-cmd --list-port <br/>
+ - 防火墙开启端口 firewall-cmd --zone=public --add-port=8080/tcp --permanent <br/>
+ - 重启防火墙 firewall-cmd --reload <br/>
+ - 查看开通的端口列表 firewall-cmd --list-port <br/>
 - 内核
-查看内核版本 hostnamectl <br/>
+ - 查看内核版本 hostnamectl <br/>
 
 # jdk
 - linux配置jdk
