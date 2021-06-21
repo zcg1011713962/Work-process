@@ -23,11 +23,11 @@
 
 ## 可用的视频流地址
 - rtsp
-  rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_175k.mov
+  - rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_175k.mov <br/>
 - http-flv
-  http://img.ksbbs.com/asset/Mon_1704/15868902d399b87.flv
+  - http://img.ksbbs.com/asset/Mon_1704/15868902d399b87.flv <br/>
   
 ## ffmpeg命令行
-截取某段视频 ffmpeg  -i  -vcodec copy -acodec copy -ss 00:00:00 -to 00:02:00 d://yingshi.mp4 -y
+截取某段视频 ffmpeg  -i  -vcodec copy -acodec copy -ss 00:00:00 -to 00:02:00 d://yingshi.mp4 -y <br/>
 
 
