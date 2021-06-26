@@ -14,6 +14,8 @@
  - 查看开通的端口列表 firewall-cmd --list-port <br/>
 - 内核
  - 查看内核版本 hostnamectl <br/>
+- linux常用命令
+ - netstat -nap |grep 端口  查看端口状态
 
 # jdk
 - linux配置jdk
