@@ -16,6 +16,8 @@
  - 查看内核版本 hostnamectl <br/>
 - linux常用命令
  - netstat -nap |grep 端口  查看端口状态
+## ubuntu
+- sudo timedatectl set-timezone Asia/Shanghai
 
 # jdk
 - linux配置jdk
